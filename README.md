@@ -7,3 +7,6 @@ For more consideration and ease
 Form1.cs is used for defining respective fuunctions
 Form1.cs[Design] for designing the GUI
 program.cs is tha main cs file for execution.
+
+
+Calculator[1]. exe is the exe extension windows app, one can download and view the working.
